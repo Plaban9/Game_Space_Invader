@@ -1,5 +1,5 @@
 # Space_Invader_Game
-A 2D endless space shooter.
+A 2D endless space shooter using unity scripted with C#.
 
 The project was created on Unity 4.6 then transferred to Unity 5 and ultimately Unity 2017.3 for WebGL build purposes.
 
